@@ -12,16 +12,6 @@ Candidate Screening Assistant is an AI-powered resume screening system for recru
 - View parsed candidate profiles in the frontend.
 - Generate AI-based and predefined skill-based interview questions.
 
-## Screenshots
-
-### Desktop Upload Screen
-
-![Desktop upload screen](docs/screenshots/upload.png)
-
-### Mobile Upload Screen
-
-![Mobile upload screen](docs/screenshots/mobile-upload.png)
-
 ## Tech Stack
 
 | Layer | Technology |
